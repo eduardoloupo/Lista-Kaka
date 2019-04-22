@@ -14,7 +14,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:0 group-title="Tv Aberta", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
  
-#EXTINF:0 group-title="Tv Aberta", TV DI¡RIO
+#EXTINF:0 group-title="Tv Aberta", TV DI√ÅRIO
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
  
 #EXTINF:0 group-title="Tv Aberta", TV METROPOLE
@@ -31,3 +31,12 @@ https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w19614
  
 #EXTINF:0 group-title="Infantil", 3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
+
+#EXTINF:0 group-title="Cameras ao Vivo", AFRICA TEMBE
+http://africacams-lh.akamaihd.net/i/Africam_Tembe@686103/index_3920000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="Cameras ao Vivo", EUA SAN DIEGO (Tigre) 
+http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/playlist.m3u8?wowzasessionid=531778296
+
+#EXTINF:0 group-title="Cameras ao Vivo", EUA SAN DIEGO (Urso Polar)
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/playlist.m3u8?wowzasessionid=1037910848
