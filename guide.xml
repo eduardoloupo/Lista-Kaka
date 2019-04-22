@@ -16,6 +16,10 @@
     <display-name lang="pt">BAND</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
+  <channel id="REDE APARECIDA">
+    <display-name lang="pt">REDE APARECIDA</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
   <programme start="20190422004500 -0300" stop="20190422020000 -0300" channel="REDE TV">
     <title lang="pt">Mega Senha 2.1</title>
     <desc lang="pt">Um teste de conhecimento, raciocínio rápido e trabalho em equipe(n)</desc>
@@ -136,6 +140,269 @@
     </rating>
   </programme>
   <programme start="20190422213000 -0300" stop="20190422224500 -0300" channel="REDE TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190422224500 -0300" stop="20190423000000 -0300" channel="REDE TV">
+    <title lang="pt">SuperPop</title>
+    <desc lang="pt">Apresentado pela belíssima Luciana Gimenez, o SuperPop é um programa cheio de bom humor, polêmica e curiosidades,trazendo a cada dia um assunto diferente que vai fazer você ficar grudado na televisão(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190423000000 -0300" stop="20190423010000 -0300" channel="REDE TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">O seu final de noite com muito mais cultura, entretenimento e informação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423010000 -0300" stop="20190423030000 -0300" channel="REDE TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423030000 -0300" stop="20190423050000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja da Graça no seu Lar</title>
+    <desc lang="pt">Muitas vezes a correria do mundo moderno nos afasta da igreja. Pensando nisso, a Rit leva os cultos até você. O igreja da graça no seu lar coloca o telespectador dentro da sede da iigd em São Paulo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423050000 -0300" stop="20190423083000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423083000 -0300" stop="20190423090000 -0300" channel="REDE TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423090000 -0300" stop="20190423093000 -0300" channel="REDE TV">
+    <title lang="pt">Calculadora</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423093000 -0300" stop="20190423100000 -0300" channel="REDE TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423100000 -0300" stop="20190423110000 -0300" channel="REDE TV">
+    <title lang="pt">Olga</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423110000 -0300" stop="20190423120000 -0300" channel="REDE TV">
+    <title lang="pt">Edu Guedes e Você</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423120000 -0300" stop="20190423130000 -0300" channel="REDE TV">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423130000 -0300" stop="20190423150000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423150000 -0300" stop="20190423170000 -0300" channel="REDE TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423170000 -0300" stop="20190423180000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423180000 -0300" stop="20190423192500 -0300" channel="REDE TV">
+    <title lang="pt">Tricotando</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423192500 -0300" stop="20190423203000 -0300" channel="REDE TV">
+    <title lang="pt">RedeTV News</title>
+    <desc lang="pt">O REDE TV NEWS traz os principais acontecimentos do Brasil e do mundo, com qualidade, alta tecnologia e transmissão 100% HD Digital, com a participação de correspondentes internacionais e os melhores comentaristas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423203000 -0300" stop="20190423213000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423213000 -0300" stop="20190423224500 -0300" channel="REDE TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423224500 -0300" stop="20190424000000 -0300" channel="REDE TV">
+    <title lang="pt">Luciana by Night</title>
+    <desc lang="pt">Luciana Gimenez receberá, a cada programa, personalidades, artistas e pessoas em evidência para um bate-papo descontraído sobre os assuntos em destaque no Brasil e no mundo(n)</desc>
+    <credits>
+      <actor>Luciana Gimenez</actor>
+      <actor>Diogo Portugal</actor>
+    </credits>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190424000000 -0300" stop="20190424003000 -0300" channel="REDE TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">O seu final de noite com muito mais cultura, entretenimento e informação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424003000 -0300" stop="20190424013000 -0300" channel="REDE TV">
+    <title lang="pt">É Notícia</title>
+    <desc lang="pt">Apresentado por Amanda Klein, o programa traz semanalmente entrevistas com personalidades do Brasil e do exterior(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424013000 -0300" stop="20190424030000 -0300" channel="REDE TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424030000 -0300" stop="20190424050000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja da Graça no seu Lar</title>
+    <desc lang="pt">Muitas vezes a correria do mundo moderno nos afasta da igreja. Pensando nisso, a Rit leva os cultos até você. O igreja da graça no seu lar coloca o telespectador dentro da sede da iigd em São Paulo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424050000 -0300" stop="20190424083000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424083000 -0300" stop="20190424090000 -0300" channel="REDE TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424090000 -0300" stop="20190424093000 -0300" channel="REDE TV">
+    <title lang="pt">Calculadora</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424093000 -0300" stop="20190424100000 -0300" channel="REDE TV">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Diversão garantida com as mais diferentes, criativas e engraçadas situações para pegar de surpresa e assustar o púbico da ruas, com uma seleção de atores cômicos(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424100000 -0300" stop="20190424110000 -0300" channel="REDE TV">
+    <title lang="pt">Olga</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424110000 -0300" stop="20190424120000 -0300" channel="REDE TV">
+    <title lang="pt">Edu Guedes e Você</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424120000 -0300" stop="20190424130000 -0300" channel="REDE TV">
+    <title lang="pt">Você na TV</title>
+    <desc lang="pt">'Você na TV' é um show de variedades marcado pela interatividade. De forma bem humorada, leve e descontraída, o programa apresenta casos reais de pessoas que enfrentam conflitos de relacionamento(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424130000 -0300" stop="20190424150000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424150000 -0300" stop="20190424170000 -0300" channel="REDE TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Sonia Abrão exibe entrevistas exclusivas, fala sobre comportamento e traz muita informação(n)</desc>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424170000 -0300" stop="20190424180000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424180000 -0300" stop="20190424192500 -0300" channel="REDE TV">
+    <title lang="pt">Tricotando</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424192500 -0300" stop="20190424203000 -0300" channel="REDE TV">
+    <title lang="pt">RedeTV News</title>
+    <desc lang="pt">O REDE TV NEWS traz os principais acontecimentos do Brasil e do mundo, com qualidade, alta tecnologia e transmissão 100% HD Digital, com a participação de correspondentes internacionais e os melhores comentaristas do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424203000 -0300" stop="20190424213000 -0300" channel="REDE TV">
+    <title lang="pt">Igreja Internacional Da Graça De Deus</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424213000 -0300" stop="20190424223000 -0300" channel="REDE TV">
     <title lang="pt">TV Fama</title>
     <desc lang="pt">O programa traz notícias de celebridades e bastidores do mundo da fama(n)</desc>
     <rating system="BR">
@@ -295,6 +562,358 @@
     </rating>
   </programme>
   <programme start="20190422214500 -0300" stop="20190422223000 -0300" channel="RECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190422223000 -0300" stop="20190423001500 -0300" channel="RECORD">
+    <title lang="pt">Repórter Record Investigação</title>
+    <desc lang="pt">Denúncias exclusivas, temas polêmicos e grandes reportagens. O Repórter Record Investigação tem a missão de desvendar temas de interesse público(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423001500 -0300" stop="20190423011500 -0300" channel="RECORD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Drama de um médico em um ambiente bastante inusitado: o corpo de bombeiros. A trama acompanhará os homens e mulheres que trabalham no departamento de bombeiros da cidade de Chicago(n)</desc>
+    <credits>
+      <actor>Taylor Kinney</actor>
+      <actor>Mo Gallini</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190423011500 -0300" stop="20190423021500 -0300" channel="RECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423021500 -0300" stop="20190423031500 -0300" channel="RECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423031500 -0300" stop="20190423060000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423060000 -0300" stop="20190423063000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423063000 -0300" stop="20190423070000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423070000 -0300" stop="20190423085500 -0300" channel="RECORD">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423085500 -0300" stop="20190423100000 -0300" channel="RECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423100000 -0300" stop="20190423120000 -0300" channel="RECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423120000 -0300" stop="20190423150000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423150000 -0300" stop="20190423154500 -0300" channel="RECORD">
+    <title lang="pt">Bela, a Feia</title>
+    <desc lang="pt">Bela, a Feia conta a história de Anabela Palhares, uma mulher modesta de 26 anos. A moça não tem muitos amigos, somente Luzia e Hortência, com quem compartilha seus sentimentos(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190423154500 -0300" stop="20190423164500 -0300" channel="RECORD">
+    <title lang="pt">Caminhos do Coração</title>
+    <desc lang="pt">Em Caminhos do Coração, mutações perigosas se espalham pela sociedade, transformando homens e mulheres em feras, vampiros, lobisomens, serpentes, que atacam nas ruas de São Paulo, disseminando o mal, como uma epidemia(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Bianca Rinaldi</actor>
+      <actor>Leonardo Vieira</actor>
+      <actor>Sérgio Malheiros</actor>
+      <actor>Nanda Ziegler</actor>
+      <actor>Maitê Piragibe</actor>
+      <actor>Taumaturgo Ferreira</actor>
+      <actor>Thaís Fersoza</actor>
+      <actor>Fernando Pavão</actor>
+      <actor>Felipe Folgosi</actor>
+      <actor>Mirian Freeland</actor>
+      <actor>Petrônio Gontijo</actor>
+      <actor>Nathália Guimarães</actor>
+      <actor>Tuca Andrada</actor>
+      <actor>Théo Becker</actor>
+      <actor>Babi Xavier</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423164500 -0300" stop="20190423180000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423180000 -0300" stop="20190423185000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta Local</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423185000 -0300" stop="20190423195000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta Local</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423195000 -0300" stop="20190423204500 -0300" channel="RECORD">
+    <title lang="pt">A Terra Prometida</title>
+    <desc lang="pt">Após a morte de Moisés, Josué é o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Mas não é tarefa fácil conduzir um povo ao seu destino(n)</desc>
+    <credits>
+      <actor>Sidney Sampaio</actor>
+      <actor>Alexandre Slaviero</actor>
+      <actor>Altair Rodrigues</actor>
+      <actor>Ana Barroso</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Amando Amaral</actor>
+      <actor>Bernardo Velasco</actor>
+      <actor>Beth Goulart</actor>
+      <actor>Brenda Haddad</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190423204500 -0300" stop="20190423214500 -0300" channel="RECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra(n)</desc>
+    <credits>
+      <director>Edgard Miranda</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190423214500 -0300" stop="20190423223000 -0300" channel="RECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423223000 -0300" stop="20190424001500 -0300" channel="RECORD">
+    <title lang="pt">Cine Record Especial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190424001500 -0300" stop="20190424011500 -0300" channel="RECORD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Drama de um médico em um ambiente bastante inusitado: o corpo de bombeiros. A trama acompanhará os homens e mulheres que trabalham no departamento de bombeiros da cidade de Chicago(n)</desc>
+    <credits>
+      <actor>Taylor Kinney</actor>
+      <actor>Mo Gallini</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190424011500 -0300" stop="20190424021500 -0300" channel="RECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424021500 -0300" stop="20190424031500 -0300" channel="RECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424031500 -0300" stop="20190424060000 -0300" channel="RECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424060000 -0300" stop="20190424063000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424063000 -0300" stop="20190424070000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424070000 -0300" stop="20190424085500 -0300" channel="RECORD">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424085500 -0300" stop="20190424100000 -0300" channel="RECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424100000 -0300" stop="20190424120000 -0300" channel="RECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424120000 -0300" stop="20190424150000 -0300" channel="RECORD">
+    <title lang="pt">Balanço Geral SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424150000 -0300" stop="20190424154500 -0300" channel="RECORD">
+    <title lang="pt">Bela, a Feia</title>
+    <desc lang="pt">Bela, a Feia conta a história de Anabela Palhares, uma mulher modesta de 26 anos. A moça não tem muitos amigos, somente Luzia e Hortência, com quem compartilha seus sentimentos(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190424154500 -0300" stop="20190424164500 -0300" channel="RECORD">
+    <title lang="pt">Caminhos do Coração</title>
+    <desc lang="pt">Em Caminhos do Coração, mutações perigosas se espalham pela sociedade, transformando homens e mulheres em feras, vampiros, lobisomens, serpentes, que atacam nas ruas de São Paulo, disseminando o mal, como uma epidemia(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Bianca Rinaldi</actor>
+      <actor>Leonardo Vieira</actor>
+      <actor>Sérgio Malheiros</actor>
+      <actor>Nanda Ziegler</actor>
+      <actor>Maitê Piragibe</actor>
+      <actor>Taumaturgo Ferreira</actor>
+      <actor>Thaís Fersoza</actor>
+      <actor>Fernando Pavão</actor>
+      <actor>Felipe Folgosi</actor>
+      <actor>Mirian Freeland</actor>
+      <actor>Petrônio Gontijo</actor>
+      <actor>Nathália Guimarães</actor>
+      <actor>Tuca Andrada</actor>
+      <actor>Théo Becker</actor>
+      <actor>Babi Xavier</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424164500 -0300" stop="20190424180000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424180000 -0300" stop="20190424185000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta Local</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424185000 -0300" stop="20190424195000 -0300" channel="RECORD">
+    <title lang="pt">Cidade Alerta Local</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424195000 -0300" stop="20190424204500 -0300" channel="RECORD">
+    <title lang="pt">A Terra Prometida</title>
+    <desc lang="pt">Após a morte de Moisés, Josué é o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Mas não é tarefa fácil conduzir um povo ao seu destino(n)</desc>
+    <credits>
+      <actor>Sidney Sampaio</actor>
+      <actor>Alexandre Slaviero</actor>
+      <actor>Altair Rodrigues</actor>
+      <actor>Ana Barroso</actor>
+      <actor>Andre Ramiro</actor>
+      <actor>Amando Amaral</actor>
+      <actor>Bernardo Velasco</actor>
+      <actor>Beth Goulart</actor>
+      <actor>Brenda Haddad</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190424204500 -0300" stop="20190424214500 -0300" channel="RECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra(n)</desc>
+    <credits>
+      <director>Edgard Miranda</director>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190424214500 -0300" stop="20190424223000 -0300" channel="RECORD">
     <title lang="pt">Jornal da Record</title>
     <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
     <rating system="BR">
@@ -487,6 +1106,439 @@
       <value>9+</value>
     </rating>
   </programme>
+  <programme start="20190422234500 -0300" stop="20190423004500 -0300" channel="SBT">
+    <title lang="pt">Conexão Repórter</title>
+    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo(n)</desc>
+    <credits>
+      <director>Roberto Cabrini</director>
+      <director>Marcelo Parada</director>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423004500 -0300" stop="20190423014500 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190423014500 -0300" stop="20190423021500 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423021500 -0300" stop="20190423024500 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas, os passantes fazem às vezes de auditório(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190423024500 -0300" stop="20190423060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423060000 -0300" stop="20190423103000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423103000 -0300" stop="20190423141500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423141500 -0300" stop="20190423150000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423150000 -0300" stop="20190423160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423160000 -0300" stop="20190423171500 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423171500 -0300" stop="20190423180000 -0300" channel="SBT">
+    <title lang="pt">A Que Não Podia Amar</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Salvador Garcini</director>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190423180000 -0300" stop="20190423183000 -0300" channel="SBT">
+    <title lang="pt">Teresa</title>
+    <desc lang="pt">Teresa é uma jovem dominada pela ambição, mas não está disposta a trabalhar para melhorar sua condição social e opta pelo caminho do engano e da traição(n)</desc>
+    <credits>
+      <director>Mónica Miguel</director>
+      <actor>Angelique Boyer</actor>
+      <actor>Aarón Díaz</actor>
+      <actor>Sebastián Rulli</actor>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Alejandro Nones</actor>
+    </credits>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190423183000 -0300" stop="20190423194500 -0300" channel="SBT">
+    <title lang="pt">A Dona</title>
+    <desc lang="pt">Valentina é uma jovem que tem tudo para ser feliz: beleza, fortuna e um noivo, a quem ama intensamente. Vive na mansão deixada por seus pais na companhia de sua tia, Isabel, e sua prima, Ivana, que vive corroída pela inveja(n)</desc>
+    <credits>
+      <director>Salvador Garcini</director>
+      <actor>Fernando Colunga</actor>
+      <actor>Gabriela Spanic</actor>
+      <actor>David Zepeda</actor>
+      <actor>Jacqueline Andere</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423194500 -0300" stop="20190423202500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423202500 -0300" stop="20190423205000 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423205000 -0300" stop="20190423213000 -0300" channel="SBT">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Reynaldo da Costa Boury</director>
+      <actor>Sophia Valverde</actor>
+      <actor>Dalton Vigh</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Larissa Manoela</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423213000 -0300" stop="20190423221500 -0300" channel="SBT">
+    <title lang="pt">Cúmplices de um Resgate</title>
+    <desc lang="pt">A irmandade é algo muito maior do que uma questão de laços de sangue. Em(n)</desc>
+    <credits>
+      <director>Socorro González</director>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423221500 -0300" stop="20190423231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190423231500 -0300" stop="20190424010000 -0300" channel="SBT">
+    <title lang="pt">Cine Espetacular</title>
+    <desc lang="pt">Toda terça-feira, a sessão exibe os melhores filmes do cinema(n)</desc>
+    <date>1997</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190424010000 -0300" stop="20190424020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190424020000 -0300" stop="20190424023000 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424023000 -0300" stop="20190424030000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas, os passantes fazem às vezes de auditório(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190424030000 -0300" stop="20190424060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424060000 -0300" stop="20190424103000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424103000 -0300" stop="20190424141500 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424141500 -0300" stop="20190424150000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424150000 -0300" stop="20190424160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424160000 -0300" stop="20190424171500 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424171500 -0300" stop="20190424180000 -0300" channel="SBT">
+    <title lang="pt">A Que Não Podia Amar</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Salvador Garcini</director>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190424180000 -0300" stop="20190424183000 -0300" channel="SBT">
+    <title lang="pt">Teresa</title>
+    <desc lang="pt">Teresa é uma jovem dominada pela ambição, mas não está disposta a trabalhar para melhorar sua condição social e opta pelo caminho do engano e da traição(n)</desc>
+    <credits>
+      <director>Mónica Miguel</director>
+      <actor>Angelique Boyer</actor>
+      <actor>Aarón Díaz</actor>
+      <actor>Sebastián Rulli</actor>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Cynthia Klitbo</actor>
+      <actor>Alejandro Nones</actor>
+    </credits>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190424183000 -0300" stop="20190424194500 -0300" channel="SBT">
+    <title lang="pt">A Dona</title>
+    <desc lang="pt">Valentina é uma jovem que tem tudo para ser feliz: beleza, fortuna e um noivo, a quem ama intensamente. Vive na mansão deixada por seus pais na companhia de sua tia, Isabel, e sua prima, Ivana, que vive corroída pela inveja(n)</desc>
+    <credits>
+      <director>Salvador Garcini</director>
+      <actor>Fernando Colunga</actor>
+      <actor>Gabriela Spanic</actor>
+      <actor>David Zepeda</actor>
+      <actor>Jacqueline Andere</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424194500 -0300" stop="20190424202500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424202500 -0300" stop="20190424205000 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424205000 -0300" stop="20190424213000 -0300" channel="SBT">
+    <title lang="pt">As Aventuras de Poliana</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Reynaldo da Costa Boury</director>
+      <actor>Sophia Valverde</actor>
+      <actor>Dalton Vigh</actor>
+      <actor>Milena Toscano</actor>
+      <actor>Larissa Manoela</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424213000 -0300" stop="20190424221500 -0300" channel="SBT">
+    <title lang="pt">Cúmplices de um Resgate</title>
+    <desc lang="pt">A irmandade é algo muito maior do que uma questão de laços de sangue. Em(n)</desc>
+    <credits>
+      <director>Socorro González</director>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424221500 -0300" stop="20190424224500 -0300" channel="SBT">
+    <title lang="pt">Pra Ganhar é Só Rodar</title>
+    <desc lang="pt">No programa o participante sorteado vai até o palco e roda cinco piões com as fotos dos artistas do SBT. O prêmio é definido de acordo com as combinações das fotos e pode valer até 1 milhão de reais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
   <programme start="20190422000000 -0300" stop="20190422010000 -0300" channel="BAND">
     <title lang="pt">Canal Livre</title>
     <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão(n)</desc>
@@ -662,6 +1714,211 @@
     <title lang="pt">O Aprendiz</title>
     <desc lang="pt">18 influenciadores digitais enfrentam grandes desafios. Quem vencer o reality show vai conquistar o grande prêmio de R$ 1 milhão de reais(n)</desc>
     <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423000000 -0300" stop="20190423010000 -0300" channel="BAND">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423010000 -0300" stop="20190423040000 -0300" channel="BAND">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Todos os domingos, após a rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423040000 -0300" stop="20190423043000 -0300" channel="BAND">
+    <title lang="pt">Times dos Sonhos</title>
+    <desc lang="pt">A série irá montar o time dos sonhos. Cada time será formado com os atletas lendários que fizeram história no seu clube, seleção e equipe, nas diversas modalidades esportivas(n)</desc>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423043000 -0300" stop="20190423050000 -0300" channel="BAND">
+    <title lang="pt">Ícones do Esporte</title>
+    <desc lang="pt">O programa irá fazer num(n)</desc>
+    <date>2019</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423050000 -0300" stop="20190423053000 -0300" channel="BAND">
+    <title lang="pt">Estrelas do Tênis</title>
+    <desc lang="pt">O programa irá mostrar o que acontece no mundo das grandes celebridades do tênis, acompanhe o estilo de vida das estrelas desse esporte dentro e fora da quadra(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423053000 -0300" stop="20190423060000 -0300" channel="BAND">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">O programa faz um top 10 de momentos memoráveis do esporte no geral. A cada programa um assunto diferente, uma lista com 10 casos icônicos do assunto abordado no dia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423060000 -0300" stop="20190423070000 -0300" channel="BAND">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423070000 -0300" stop="20190423090000 -0300" channel="BAND">
+    <title lang="pt">Depois do Jogo</title>
+    <desc lang="pt">Todos os domingos, após a rodada, entra em campo o Depois do Jogo. Gols, entrevistas pós jogos, personagens. Os destaques do nosso futebol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423090000 -0300" stop="20190423100000 -0300" channel="BAND">
+    <title lang="pt">PBR - Bull Riders</title>
+    <desc lang="pt">Competições internacionais de montaria em touros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423100000 -0300" stop="20190423120000 -0300" channel="BAND">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <desc lang="pt">Para deixar sua manhã bem informada, o Primeiro Tempo, tradicional programa apresentado por Elia Junior, faz um giro por todos os esportes. Sempre com convidados e comentaristas, o Primeiro Tempo abre o dia jornalístico(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423120000 -0300" stop="20190423160000 -0300" channel="BAND">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423160000 -0300" stop="20190423163000 -0300" channel="BAND">
+    <title lang="pt">Gol - O Grande Momento do Futebol</title>
+    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423163000 -0300" stop="20190423173000 -0300" channel="BAND">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423173000 -0300" stop="20190423200000 -0300" channel="BAND">
+    <title lang="pt">Bola Rolando</title>
+    <desc lang="pt">No final da tarde, logo que as atividades dos clubes se encerram, a bola rola na tela do Bandsports. Informação, discussão e projeção sobre o dia do futebol no Brasil e no Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423200000 -0300" stop="20190423220000 -0300" channel="BAND">
+    <title lang="pt">Formula Indy: GP de Barber</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190423220000 -0300" stop="20190424000000 -0300" channel="BAND">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada)(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424000000 -0300" stop="20190424040000 -0300" channel="BAND">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais informações a cada 30 minutos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424040000 -0300" stop="20190424050000 -0300" channel="BAND">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424050000 -0300" stop="20190424060000 -0300" channel="BAND">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais informações a cada 30 minutos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424060000 -0300" stop="20190424073000 -0300" channel="BAND">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <desc lang="pt">Principais notícias do Brasil e do mundo, o trânsito e a previsão do tempo. Rafael Colombo comanda o Jornal BandNews: 1ª edição com muita prestação de serviço e a análise dos assuntos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424073000 -0300" stop="20190424120000 -0300" channel="BAND">
+    <title lang="pt">Manhã Bandnews</title>
+    <desc lang="pt">A atualização das notícias da manhã e tudo o que é importante para você ficar ligado ao longo do dia estão no Manhã BandNews(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424120000 -0300" stop="20190424140000 -0300" channel="BAND">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <desc lang="pt">O que já foi notícia, as informações do momento e o que ainda será destaque ao longo do dia. No BandNews no Meio do Dia, o jornalista Eduardo Barão apresenta os fatos mais importantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424140000 -0300" stop="20190424180000 -0300" channel="BAND">
+    <title lang="pt">Tarde Bandnews</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, você encontra no Tarde BandNews. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424180000 -0300" stop="20190424200000 -0300" channel="BAND">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424200000 -0300" stop="20190424203000 -0300" channel="BAND">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424203000 -0300" stop="20190424213000 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424213000 -0300" stop="20190424220000 -0300" channel="BAND">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424220000 -0300" stop="20190424230000 -0300" channel="BAND">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190424230000 -0300" stop="20190425000000 -0300" channel="BAND">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
