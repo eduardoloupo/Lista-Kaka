@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0 group-title="Canais",
+#EXTSIZE: Big
+ 
+#EXTINF:0 group-title="Tv Aberta", REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1270435288.m3u8
+ 
+#EXTINF:0 group-title="Tv Aberta", RECORD
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/chunklist_w815470775.m3u8?
+ 
+#EXTINF:0 group-title="Tv Aberta", SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+ 
+#EXTINF:0 group-title="Tv Aberta", BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+ 
+#EXTINF:0 group-title="Tv Aberta", TV DIÁRIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+ 
+#EXTINF:0 group-title="Tv Aberta", TV METROPOLE
+http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8?wowzasessionid=1861420252
+ 
+#EXTINF:0 group-title="Tv Aberta", REDE APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w367785734.m3u8
+ 
+#EXTINF:0 group-title="Tv Aberta", TV ASSEMBLEIA
+http://srv6.zoeweb.tv:1935/z404-live/stream/chunklist_w997593580.m3u8
+ 
+#EXTINF:0 group-title="Esportes", ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1961438426.m3u8
+ 
+#EXTINF:0 group-title="Infantil", 3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
