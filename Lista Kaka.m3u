@@ -12,7 +12,7 @@ http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/chunklist_w815470775.m3u8?
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
  
 #EXTINF:0 group-title="Tv Aberta", BAND
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+h1ttp://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
  
 #EXTINF:0 group-title="Tv Aberta", TV DIÁRIO
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
@@ -34,3 +34,21 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
 
 #EXTINF:0 group-title="Cine", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:0 group-title="Cine", MAX UP   
+http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18619.ts
+
+#EXTINF:0 group-title="Cine", MEGAPIX
+http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18617.ts
+
+#EXTINF:0 group-title="Cine", PARAMOUNT HD
+http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18596.ts
+
+#EXTINF:0 group-title="Cine", SONY HD
+http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18714.ts
+
+#EXTINF:0 group-title="Cine", SPACE HD
+http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18564.ts
+
+#EXTINF:0 group-title="Cine", STUDIO UNIVERSAL HD
+http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18556.ts
