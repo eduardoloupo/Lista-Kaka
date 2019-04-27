@@ -18,10 +18,6 @@ http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11172
 
 #EXTINF:0 group-title="Tv Aberta", GLOBO VERDES MARES HD 
 http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11513
-
-#EXTINF:0 group-title="Tv Aberta", RECORD
-GLOOB SD
-http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11630 
  
 #EXTINF:0 group-title="Tv Aberta", SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
@@ -119,6 +115,9 @@ http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11686
 
 #EXTINF:0 group-title="Infantil", DISNEY XD SD
 http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11683
+
+#EXTINF:0 group-title="Infantil", GLOOB SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11630 
 
 ########## CINE ##########
 
