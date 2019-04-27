@@ -1,18 +1,36 @@
 #EXTM3U
 #EXTINF:0 group-title="Canais",
 #EXTSIZE: Big
- 
+
+########### TV ABERTA ##########
+
 #EXTINF:0 group-title="Tv Aberta", REDE TV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1270435288.m3u8
  
 #EXTINF:0 group-title="Tv Aberta", RECORD
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/chunklist_w815470775.m3u8?
+
+#EXTINF:0 group-title="Tv Aberta", GLOBO NORDESTE SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11645
+
+#EXTINF:0 group-title="Tv Aberta", GLOBO HD 
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11172
+
+#EXTINF:0 group-title="Tv Aberta", GLOBO VERDES MARES HD 
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11513
+
+#EXTINF:0 group-title="Tv Aberta", RECORD
+GLOOB SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11630 
  
 #EXTINF:0 group-title="Tv Aberta", SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
  
 #EXTINF:0 group-title="Tv Aberta", BAND
 h1ttp://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:0 group-title="Tv Aberta", BAND SP SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11722
  
 #EXTINF:0 group-title="Tv Aberta", TV DIÁRIO
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
@@ -25,12 +43,84 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w367785734.m3u8
  
 #EXTINF:0 group-title="Tv Aberta", TV ASSEMBLEIA
 http://srv6.zoeweb.tv:1935/z404-live/stream/chunklist_w997593580.m3u8
+
+######### ESPORTES ##########
  
 #EXTINF:0 group-title="Esportes", ALL SPORTS
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1961438426.m3u8
- 
+
+#EXTINF:0 group-title="Esportes", BAND SPORTS HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11136
+
+#EXTINF:0 group-title="Esportes", BAND SPORTS SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11720
+
+#EXTINF:0 group-title="Esportes", COMBATE HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11706
+
+#EXTINF:0 group-title="Esportes", COMBATE SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11705
+
+#EXTINF:0 group-title="Esportes", FOX SPORTS SD 
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11662
+
+#EXTINF:0 group-title="Esportes", FOX SPORTS 2 SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11664
+
+#EXTINF:0 group-title="Esportes", ESPN HD 
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11178
+
+#EXTINF:0 group-title="Esportes", ESPN 2 FHD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11677
+
+#EXTINF:0 group-title="Esportes", ESPN 2 SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11676
+
+#EXTINF:0 group-title="Esportes", ESPN EXTRA HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11506
+
+#EXTINF:0 group-title="Esportes", ESPN EXTRA SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11671
+
+#EXTINF:0 group-title="Esportes", FISH TV SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11669
+
+########## INFANTIL ##########
+
 #EXTINF:0 group-title="Infantil", 3ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/HQs/chunklist.m3u8
+
+#EXTINF:0 group-title="Infantil", BABY TV SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11725
+
+#EXTINF:0 group-title="Infantil", BOOMERANG HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/12902
+
+#EXTINF:0 group-title="Infantil", BOOMERANG SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11715
+
+#EXTINF:0 group-title="Infantil", CARTOON NETWORK HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11179
+
+#EXTINF:0 group-title="Infantil", DISCOVERY KIDS HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/12908
+
+#EXTINF:0 group-title="Infantil", DISCOVERY KIDS SD 
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11693
+
+#EXTINF:0 group-title="Infantil", DISNEY CHANNEL FHD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11691
+
+#EXTINF:0 group-title="Infantil", DISNEY CHANNEL SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11689
+
+#EXTINF:0 group-title="Infantil", DISNEY JUNIOR SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11686
+
+#EXTINF:0 group-title="Infantil", DISNEY XD SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11683
+
+########## CINE ##########
 
 #EXTINF:0 group-title="Cine", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -53,5 +143,98 @@ http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18564.ts
 #EXTINF:0 group-title="Cine", STUDIO UNIVERSAL HD
 http://psrv.io:80/live/fQ16qTZWrQV/1219926579/18556.ts
 
-#EXTINF:0 group-title="Esportes", Premiere
-https://1.supraisemotherfuckembedoffthenet.club/live/stream_name/chunks.m3u8?nimblesessionid=798282
+#EXTINF:0 group-title="Cine", A&N SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11730
+
+#EXTINF:0 group-title="Cine", AMC SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11729
+
+#EXTINF:0 group-title="Cine", AXN SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11726
+
+#EXTINF:0 group-title="Cine", CANAL BRASIL HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11713
+
+#EXTINF:0 group-title="Cine", CANAL BRASIL SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11712
+
+#EXTINF:0 group-title="Cine", CANAL SONY SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11710
+
+#EXTINF:0 group-title="Cine", FOX FILM HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11119
+
+#EXTINF:0 group-title="Cine", FOX LIFE SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11666
+
+#EXTINF:0 group-title="Cine", HBO 2 FHD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11170
+
+#EXTINF:0 group-title="Cine", HBO 2 SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11626
+
+#EXTINF:0 group-title="Cine", HBO FAMILY SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11625
+
+#EXTINF:0 group-title="Cine", HBO FHD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11168
+
+#EXTINF:0 group-title="Cine", HBO HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11171
+
+#EXTINF:0 group-title="Cine", HBO PLUS SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11624
+
+#EXTINF:0 group-title="Cine", HBO SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11623
+
+#EXTINF:0 group-title="Cine", HBO SIGNATURE SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11622
+
+########## DOCUMENTARY ##########
+
+#EXTINF:0 group-title="Documentario", ANIMAL PLANET SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11728
+
+#EXTINF:0 group-title="Documentario", DISCOVERY CHANNEL SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11695
+
+#EXTINF:0 group-title="Documentario", H2 HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11127
+
+#EXTINF:0 group-title="Documentario", H2 HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11621
+
+#EXTINF:0 group-title="Documentario", HISTORY HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/12912
+
+########## NEWS ##########
+
+#EXTINF:0 group-title="Noticias", GLOBO NEWS SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11647
+
+#EXTINF:0 group-title="Noticias", BAND NEWS SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11724
+
+#EXTINF:0 group-title="Noticias", CBS NEWS
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11507
+
+########## VARIEDADES ##########
+
+#EXTINF:0 group-title="Variedades", CANAL FUTURA HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11711
+
+#EXTINF:0 group-title="Variedades", DISCOVERY H&H SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11694
+
+#EXTINF:0 group-title="Variedades", DISCOVERY TURBO FHD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11692
+
+#EXTINF:0 group-title="Variedades", E! SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11682
+
+#EXTINF:0 group-title="Variedades", GNT HD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11628
+
+#EXTINF:0 group-title="Variedades", GNT SD
+http://srv01.iptvquantum.co:80/JORA4303655/SnthCW2cZk/11627
